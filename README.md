@@ -37,10 +37,11 @@
 ## Demo
 
 <p align="center">
-  <img src="images/tour.gif" alt="Screen tour of the app" width="270">
+  <img src="images/demo.gif" alt="Screen recording of the app running on a phone" width="270">
 </p>
 
-<p align="center"><em>Screen tour made from the Play Store screenshots (real app screens).</em></p>
+<p align="center"><em>Screen recording of version 1.0.0 on a real Android phone, installed from Google Play.
+<a href="images/demo.mp4">Watch as video (MP4)</a></em></p>
 
 ## Screenshots
 
