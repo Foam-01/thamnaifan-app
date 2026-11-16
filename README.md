@@ -40,8 +40,8 @@
   <img src="images/demo.gif" alt="Screen recording of the app running on a phone" width="270">
 </p>
 
-<p align="center"><em>Screen recording of version 1.0.0 on a real Android phone, installed from Google Play.
-<a href="images/demo.mp4">Watch as video (MP4)</a></em></p>
+<p align="center"><em>Full walkthrough of version 1.0.0 on a real Android phone, installed from Google Play: from app launch through every tab and menu (GIF plays at 2x speed).
+<a href="images/demo.mp4">Watch at normal speed (MP4, about 2 minutes)</a></em></p>
 
 ## Screenshots
 
