@@ -54,6 +54,14 @@
 
 ---
 
+## Design
+
+The screens were designed in Figma before they were built:
+[view the design file (read-only)](https://www.figma.com/design/6CPIJJBmngF72eY22VFWdD/Dream-interpretation?node-id=38-3).
+The shipped app has moved ahead of the design file in a few places.
+
+---
+
 ## What the app does
 
 People search by **what they saw in the dream** ("snake", "broken tooth", "a dead person") instead of
