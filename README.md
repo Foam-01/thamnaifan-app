@@ -29,8 +29,7 @@
 <p align="center"><em>The app's Google Play page (early access), installed from the store on a real phone.</em></p>
 
 > **About this repository:** this is a showcase. The app is a commercial product, so its source
-> code and bundled content are kept in a private repository. I am happy to walk through the code in
-> an interview.
+> code and bundled content are kept in a private repository.
 
 ---
 
